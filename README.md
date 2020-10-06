@@ -1,6 +1,6 @@
 # Front End Challenge
 
-Criar um projeto React utilizando Apollo Server (Graphql)
+Criar um projeto React utilizando Apollo Client (Graphql)
 
 
 ## Projeto:
